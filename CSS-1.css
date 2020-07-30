@@ -40,7 +40,7 @@ li{
 html,body{
 	height: 100%;
 	background: rgba(254,97,83,1);
-background:  linear-gradient(135deg, rgba(55,81,255,1) 0%, rgba(254,97,83,1) 43%, rgba(100,159,237,1) 96%, rgba(100,159,237,1) 100%);
+background:  linear-gradient(135deg, rgba(55,81,255,1) 0%, rgba(254,97,83,1) 43%, rgba(100,159,237,1) 96%);
 animation: background 15s infinite alternate;
 }
 @keyframes background {
@@ -49,7 +49,7 @@ animation: background 15s infinite alternate;
     box-shadow: 0 -200px 110px -100px rgba(4, 0, 4, 1) inset;
   }
   10% {
-    background: rgba(230,30,230,1);
+    background: rgba(140,120,200,1);
     box-shadow: 0 -200px 110px -100px rgba(5, 5, 3, 1) inset;
   }
   /*20% {
@@ -61,11 +61,11 @@ animation: background 15s infinite alternate;
     box-shadow: 0 -200px 110px -100px rgba(4, 7, 8, 1) inset;
   }
   70%{
-	background: rgba(125,80,207,1);
+	background: rgba(240,100,97,1);
     box-shadow: 0 -200px 110px -100px rgba(5, 3, 0, 1) inset;
   }*/
   50%{
-	background: rgba(160,159,237,1);
+	background: rgba(240,109,90,1);
     box-shadow: 0 -200px 110px -100px rgba(7, 0, 9, 1) inset;
   }
 }
