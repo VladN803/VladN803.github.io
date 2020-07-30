@@ -7,11 +7,9 @@
 	border-style: solid;
 	border-radius: 6px;
 	border-width: 1.5px;
-	border-color: rgba(0, 0, 0, 0.4);
+	border-color: rgba(0, 0, 0, 0.7);
 	margin: 0 4px 0 0;
-        background: #000000;
-    opacity: 0.6;
-    filter: alpha(Opacity=60); 
+        background: rgba(0, 0, 0, 0.6);
 }
 .main{
 	font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
