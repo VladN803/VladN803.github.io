@@ -40,8 +40,8 @@ li{
 html,body{
 	height: 100%;
         /*background: linear-gradient(#e66465, #9198e5);
-	background: linear-gradient(#e66465, #9198e5);
-animation: background 15s infinite alternate;*/
+	background: linear-gradient(#e66465, #9198e5);*/
+animation: background 15s infinite alternate;
 }
 @keyframes background {
 	/*2%{
