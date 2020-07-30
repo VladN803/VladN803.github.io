@@ -9,6 +9,9 @@
 	border-width: 1.5px;
 	border-color: rgba(0, 0, 0, 0.4);
 	margin: 0 4px 0 0;
+        background: #000000;
+    opacity: 0.6;
+    filter: alpha(Opacity=60); 
 }
 .main{
 	font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
@@ -16,7 +19,7 @@
 	font-variant: normal;
 	font-weight: 700;
 	line-height: 90px;
-	color: black;
+	color: white;
 	text-align: left
 }
 .head{
@@ -27,7 +30,7 @@
 	line-height: 90px;
 	text-align: center;
 	font-size: 47pt;
-	
+	color: white;
 }
 a {
     color:rgba(0, 0, 0, 1);
