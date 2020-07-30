@@ -39,15 +39,16 @@ li{
 }
 html,body{
 	height: 100%;
-	background: rgba(254,97,83,1);
-background:  linear-gradient(135deg, rgba(55,81,255,1) 0%, rgba(254,97,83,1) 43%, rgba(100,159,237,1) 96%);
+	background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
 animation: background 15s infinite alternate;
 }
 @keyframes background {
-	2%{
+	/*2%{
 	background: rgba(110,159,237,1);
     box-shadow: 0 -200px 110px -100px rgba(4, 0, 4, 1) inset;
-  }
+  }*/
   10% {
     background: rgba(140,120,200,1);
     box-shadow: 0 -200px 110px -100px rgba(5, 5, 3, 1) inset;
