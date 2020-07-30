@@ -41,7 +41,7 @@ html,body{
 	height: 100%;
 	background: rgba(208,27,245,1);
 background:  linear-gradient(135deg, rgba(245,51,255,1) 0%, rgba(149,0,235,1) 43%, rgba(100,159,237,1) 96%, rgba(100,159,237,1) 100%);
-animation: background 30s infinite alternate;
+animation: background 15s infinite alternate;
 }
 @keyframes background {
 	2%{
