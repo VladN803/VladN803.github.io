@@ -52,7 +52,7 @@ animation: background 15s infinite alternate;
     background: rgba(230,30,230,1);
     box-shadow: 0 -200px 110px -100px rgba(5, 5, 3, 1) inset;
   }
-  20% {
+  /*20% {
     background: rgba(150,15,235,1);
     box-shadow: 0 -200px 110px -100px rgba(5, 6, 5, 1) inset;
   }
@@ -63,7 +63,7 @@ animation: background 15s infinite alternate;
   70%{
 	background: rgba(125,80,207,1);
     box-shadow: 0 -200px 110px -100px rgba(5, 3, 0, 1) inset;
-  }
+  }*/
   100%{
 	background: rgba(100,135,240,1);
     box-shadow: 0 -200px 110px -100px rgba(7, 0, 9, 1) inset;
