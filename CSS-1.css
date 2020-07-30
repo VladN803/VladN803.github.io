@@ -40,7 +40,7 @@ li{
 html,body{
 	height: 100%;
 	background: rgba(254,97,83,1);
-background:  linear-gradient(135deg, rgba(55,81,255,1) 0%, rgba(120,100,235,1) 43%, rgba(100,159,237,1) 96%, rgba(100,159,237,1) 100%);
+background:  linear-gradient(135deg, rgba(55,81,255,1) 0%, rgba(254,97,83,1) 43%, rgba(100,159,237,1) 96%, rgba(100,159,237,1) 100%);
 animation: background 15s infinite alternate;
 }
 @keyframes background {
